@@ -5,13 +5,10 @@ import App from './App.tsx';
 import "bootstrap/dist/css/bootstrap.min.css";
 import './index.css';
 
-const pathname = window.location.pathname;
-const isGithubPages = pathname.startsWith("/michitypescript");
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <BrowserRouter
-      basename={isGithubPages ? "/michitypescript" : "/"}
       future={{
         v7_startTransition: true,
         v7_relativeSplatPath: true,

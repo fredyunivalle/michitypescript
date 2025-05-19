@@ -18,7 +18,7 @@ const AppNavbar = ({ onToggleSidebar }: AppNavbarProps) => {
         >
           ☰
         </Button>
-        <Navbar.Brand as={Link} to="/michinglishapp">
+        <Navbar.Brand as={Link} to="/">
           MichinglishAPP
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />

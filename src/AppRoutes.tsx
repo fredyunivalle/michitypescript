@@ -6,7 +6,7 @@ const AppRoutes = () => {
   return (
     <Routes>
       <Route path="/" element={<Home />} />
-      <Route path="/michinglishapp/:level/:category" element={<LevelPage />} />
+      <Route path="/:level/:category" element={<LevelPage />} />
     </Routes>
   );
 };

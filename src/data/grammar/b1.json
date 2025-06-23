@@ -1,0 +1,52 @@
+[
+  {
+    "slug": "present-perfect",
+    "title": "Present Perfect",
+    "description": "Connect past actions with the present using 'have/has + past participle'."
+  },
+  {
+    "slug": "present-perfect-continuous",
+    "title": "Present Perfect Continuous",
+    "description": "Talk about actions that started in the past and are still happening."
+  },
+  {
+    "slug": "past-continuous",
+    "title": "Past Continuous",
+    "description": "Describe ongoing actions in the past that were interrupted."
+  },
+  {
+    "slug": "first-conditional",
+    "title": "First Conditional",
+    "description": "Talk about real future possibilities: If it rains, I will stay home."
+  },
+  {
+    "slug": "used-to",
+    "title": "Used to",
+    "description": "Talk about past habits or states that are no longer true."
+  },
+  {
+    "slug": "gerunds-infinitives",
+    "title": "Gerunds and Infinitives",
+    "description": "Understand when to use verbs ending in -ing or to + verb after certain expressions."
+  },
+  {
+    "slug": "modal-verbs",
+    "title": "Modal Verbs",
+    "description": "Express ability, possibility, advice and obligation: must, might, should, etc."
+  },
+  {
+    "slug": "second-conditional",
+    "title": "Second Conditional",
+    "description": "Talk about hypothetical situations in the present or future."
+  },
+  {
+    "slug": "relative-pronouns",
+    "title": "Relative Pronouns",
+    "description": "Use who, which, where, whose, that to join sentences and add information."
+  },
+  {
+    "slug": "future-continuous",
+    "title": "Future Continuous",
+    "description": "Describe actions that will be in progress at a future moment."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "slug": "discourse-markers",
+    "title": "Advanced Discourse Markers",
+    "description": "Use high-level connectors and transitions to organize ideas coherently in speech and writing."
+  },
+  {
+    "slug": "complex-inversion",
+    "title": "Complex Inversion Structures",
+    "description": "Master inversion in conditionals, comparisons and emphasis: 'Had I known...', 'So did he...'."
+  },
+  {
+    "slug": "reduced-relative-clauses",
+    "title": "Reduced Relative Clauses",
+    "description": "Shorten clauses for fluency and conciseness: 'The man living next door...' instead of 'who lives...'."
+  },
+  {
+    "slug": "mixed-time-structures",
+    "title": "Mixed Time Structures",
+    "description": "Use multiple tenses in one sentence to express complex timelines or logic."
+  },
+  {
+    "slug": "embedded-questions",
+    "title": "Embedded Questions",
+    "description": "Form polite, indirect, or formal questions: 'Do you know where he went?'"
+  },
+  {
+    "slug": "emphatic-structures",
+    "title": "Emphatic Structures",
+    "description": "Use patterns like 'What I want is...', 'All I need is...' for stylistic emphasis."
+  },
+  {
+    "slug": "advanced-passive",
+    "title": "Advanced Passive Constructions",
+    "description": "Use causative and complex passive forms: 'He is said to have...', 'She had the car repaired'."
+  },
+  {
+    "slug": "hedging",
+    "title": "Hedging Language",
+    "description": "Soften statements or express uncertainty: 'It seems that...', 'might be', 'could suggest'."
+  },
+  {
+    "slug": "style-shifting",
+    "title": "Style Shifting",
+    "description": "Adapt tone and register based on audience, context or purpose."
+  },
+  {
+    "slug": "nominalisation-and-cohesion",
+    "title": "Nominalisation and Textual Cohesion",
+    "description": "Increase formality and coherence in academic or formal writing."
+  }
+]

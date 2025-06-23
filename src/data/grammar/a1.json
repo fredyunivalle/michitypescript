@@ -1,0 +1,52 @@
+[
+  {
+    "slug": "present-simple",
+    "title": "Present Simple",
+    "description": "We use the present simple for routines and facts."
+  },
+  {
+    "slug": "articles",
+    "title": "Articles: a / an",
+    "description": "Use 'a' before consonant sounds, 'an' before vowel sounds."
+  },
+  {
+    "slug": "to-be",
+    "title": "Verb To Be",
+    "description": "Learn how to use 'am', 'is', and 'are' in sentences and questions."
+  },
+  {
+    "slug": "subject-pronouns",
+    "title": "Subject Pronouns",
+    "description": "I, you, he, she, it, we, they – use them correctly in context."
+  },
+  {
+    "slug": "possessive-adjectives",
+    "title": "Possessive Adjectives",
+    "description": "my, your, his, her, its, our, their – show ownership."
+  },
+  {
+    "slug": "there-is-there-are",
+    "title": "There is / There are",
+    "description": "Describe existence or presence of things using singular and plural."
+  },
+  {
+    "slug": "demonstratives",
+    "title": "This / That / These / Those",
+    "description": "Point to things near or far in space and number."
+  },
+  {
+    "slug": "imperatives",
+    "title": "Imperatives",
+    "description": "Give basic instructions and commands: 'Sit down!', 'Be quiet.'"
+  },
+  {
+    "slug": "prepositions-of-place",
+    "title": "Prepositions of Place",
+    "description": "Learn how to describe position: on, in, under, next to, behind."
+  },
+  {
+    "slug": "can-cant",
+    "title": "Can / Can’t",
+    "description": "Talk about abilities and permissions."
+  }
+]

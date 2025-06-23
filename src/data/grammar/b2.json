@@ -1,0 +1,52 @@
+[
+  {
+    "slug": "conditionals",
+    "title": "Conditionals (0–3)",
+    "description": "Express real and imaginary situations using the first, second, third, and zero conditional."
+  },
+  {
+    "slug": "passive-voice",
+    "title": "Passive Voice",
+    "description": "Focus on the action or object of a sentence rather than who is doing it."
+  },
+  {
+    "slug": "reported-speech",
+    "title": "Reported Speech",
+    "description": "Say what someone else said using backshifting and reporting verbs."
+  },
+  {
+    "slug": "modals-in-past",
+    "title": "Modals in the Past",
+    "description": "Express deduction, advice or obligation in the past: must have, should have, etc."
+  },
+  {
+    "slug": "relative-clauses",
+    "title": "Relative Clauses",
+    "description": "Combine information using defining and non-defining clauses with who, which, where, etc."
+  },
+  {
+    "slug": "wish-and-if-only",
+    "title": "Wish / If Only",
+    "description": "Express regrets or wishes about the present, past or future."
+  },
+  {
+    "slug": "inversion",
+    "title": "Inversion for Emphasis",
+    "description": "Emphasize parts of a sentence using inversion after negative adverbials like 'Never have I seen...'"
+  },
+  {
+    "slug": "mixed-conditionals",
+    "title": "Mixed Conditionals",
+    "description": "Describe cause-effect relationships across different times: If I had studied, I would be..."
+  },
+  {
+    "slug": "future-perfect",
+    "title": "Future Perfect",
+    "description": "Talk about actions that will be completed before a certain time in the future."
+  },
+  {
+    "slug": "cleft-sentences",
+    "title": "Cleft Sentences",
+    "description": "Add emphasis to what we say using 'What I love is...' or 'It was John who...'"
+  }
+]

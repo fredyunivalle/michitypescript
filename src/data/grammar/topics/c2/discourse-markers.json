@@ -1,0 +1,186 @@
+{
+  "slug": "discourse-markers",
+  "title": "Advanced Discourse Markers",
+  "description": "Discourse markers are words or phrases used to organize speech and writing. They help guide the listener or reader by signaling relationships between ideas, such as contrast, cause, sequence, or emphasis. Mastering them improves fluency and coherence, especially in advanced writing and conversation.",
+  "subtopics": [
+    {
+      "title": "Contrast",
+      "description": "Used to show a difference between two ideas or introduce an opposing point.",
+      "examples": [
+        {
+          "marker": "However",
+          "explanation": "Used to contrast two ideas. Ideal in formal writing or speech.",
+          "sample": "The weather was terrible. However, we still enjoyed the trip."
+        },
+        {
+          "marker": "Nevertheless",
+          "explanation": "Adds emphasis to persistence despite difficulty.",
+          "sample": "He was injured. Nevertheless, he finished the race."
+        },
+        {
+          "marker": "On the other hand",
+          "explanation": "Introduces an alternative or opposing view.",
+          "sample": "Living in the city is exciting. On the other hand, it can be stressful."
+        }
+      ]
+    },
+    {
+      "title": "Result or Consequence",
+      "description": "Indicates the outcome of a previous action or idea.",
+      "examples": [
+        {
+          "marker": "Therefore",
+          "explanation": "Common in academic writing to show logical results.",
+          "sample": "He didn’t study. Therefore, he failed the exam."
+        },
+        {
+          "marker": "Consequently",
+          "explanation": "Used in formal contexts to indicate results.",
+          "sample": "It rained all night. Consequently, the event was cancelled."
+        },
+        {
+          "marker": "As a result",
+          "explanation": "Good for summarizing the effect of something.",
+          "sample": "The traffic was really bad. As a result, I was late for work."
+        }
+      ]
+    },
+    {
+      "title": "Addition",
+      "description": "Used to add more information to what was previously said.",
+      "examples": [
+        {
+          "marker": "Also",
+          "explanation": "Adds a similar idea or supports the previous point.",
+          "sample": "We need to buy eggs. Also, we should get some milk."
+        },
+        {
+          "marker": "Furthermore",
+          "explanation": "Used in formal or academic writing to add strong support.",
+          "sample": "The product is affordable. Furthermore, it’s eco-friendly."
+        },
+        {
+          "marker": "Moreover",
+          "explanation": "Introduces an even stronger or more important point.",
+          "sample": "He’s qualified for the job. Moreover, he speaks five languages."
+        }
+      ]
+    },
+    {
+      "title": "Explanation or Reason",
+      "description": "Used to clarify or explain why something happened.",
+      "examples": [
+        {
+          "marker": "Because",
+          "explanation": "Gives a reason; very common in spoken English.",
+          "sample": "We canceled the picnic because it was raining."
+        },
+        {
+          "marker": "Since",
+          "explanation": "Used in more formal writing to explain cause.",
+          "sample": "Since she was busy, we postponed the meeting."
+        },
+        {
+          "marker": "As",
+          "explanation": "Alternative to 'because' in formal English.",
+          "sample": "As it was late, we decided to leave."
+        }
+      ]
+    },
+    {
+      "title": "Topic Shift or Return",
+      "description": "Signals a change of topic or return to a previous idea.",
+      "examples": [
+        {
+          "marker": "Anyway",
+          "explanation": "Used in conversation to move on or dismiss something.",
+          "sample": "Anyway, let’s talk about the project."
+        },
+        {
+          "marker": "By the way",
+          "explanation": "Used to introduce a new, often unrelated point.",
+          "sample": "By the way, did you see the news today?"
+        },
+        {
+          "marker": "As I was saying",
+          "explanation": "Used to return to a previous point after interruption.",
+          "sample": "As I was saying, we need to be more careful with deadlines."
+        }
+      ]
+    },
+    {
+      "title": "Softening / Hedging",
+      "description": "Used to express uncertainty, politeness, or reduce the strength of a statement.",
+      "examples": [
+        {
+          "marker": "Well",
+          "explanation": "Often used at the beginning of a sentence to hesitate or soften.",
+          "sample": "Well, I’m not really sure about that."
+        },
+        {
+          "marker": "You know",
+          "explanation": "Engages the listener or shows informality.",
+          "sample": "You know, I was thinking about that movie we saw."
+        },
+        {
+          "marker": "I mean",
+          "explanation": "Clarifies or adjusts a previous statement.",
+          "sample": "I didn’t love it—I mean, it was okay, just not great."
+        }
+      ]
+    },
+    {
+      "title": "Examples or Clarification",
+      "description": "Used to introduce examples or clarify a point.",
+      "examples": [
+        {
+          "marker": "For example",
+          "explanation": "Introduces a specific case that supports an idea.",
+          "sample": "There are many types of fruit. For example, apples and bananas."
+        },
+        {
+          "marker": "For instance",
+          "explanation": "Similar to 'for example', slightly more formal.",
+          "sample": "Some languages are difficult. For instance, Mandarin Chinese."
+        }
+      ]
+    },
+    {
+      "title": "Agreement or Acknowledgement",
+      "description": "Shows you understand, agree, or acknowledge the speaker.",
+      "examples": [
+        {
+          "marker": "Right",
+          "explanation": "Shows understanding or signals to proceed.",
+          "sample": "Right, let’s move on to the next topic."
+        },
+        {
+          "marker": "Okay",
+          "explanation": "Informal way to agree or continue.",
+          "sample": "Okay, I’ll send the report this afternoon."
+        },
+        {
+          "marker": "Yeah",
+          "explanation": "Very informal; shows agreement or attention.",
+          "sample": "Yeah, that makes sense."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose-connector",
+      "question": "The traffic was really bad. ___, I was late for work.",
+      "options": ["Therefore", "Because", "Also"],
+      "correct": "Therefore"
+    },
+    {
+      "type": "rewrite",
+      "instruction": "Rewrite using a discourse marker to show contrast.",
+      "sentence": "She disagreed with the proposal. She stayed quiet.",
+      "expected": "She disagreed with the proposal. However, she stayed quiet."
+    }
+  ]
+}
+
+

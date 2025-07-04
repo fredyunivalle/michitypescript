@@ -1,5 +1,5 @@
 import { Container, Row, Col, Image } from 'react-bootstrap';
-import catImage from '../assets/cat-teacher.png'; // Cambia según tu imagen
+import catImage from '../assets/cat-teacher.png'; // Replace with your own image
 
 const Home = () => {
   return (

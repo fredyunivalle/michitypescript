@@ -1,6 +1,8 @@
+import type { ReactNode } from 'react';
+
 interface VocabularyPageProps {
   level: string;
-  content?: React.ReactNode;
+  content?: ReactNode;
 }
 
 const VocabularyPage = ({ level, content }: VocabularyPageProps) => {

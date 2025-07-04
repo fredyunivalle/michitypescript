@@ -1,6 +1,8 @@
+import type { ReactNode } from 'react';
+
 interface FunctionalSkillsPageProps {
   level: string;
-  content?: React.ReactNode;
+  content?: ReactNode;
 }
 
 const FunctionalSkillsPage = ({ level, content }: FunctionalSkillsPageProps) => {

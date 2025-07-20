@@ -1,0 +1,189 @@
+{
+  "slug": "present-simple",
+  "title": "Present Simple",
+  "description": "The Present Simple tense describes habits, routines, general facts, and scheduled events. Understanding its forms and uses is essential for everyday communication, providing clarity and accuracy when talking about regular actions or timeless truths.",
+  "subtopics": [
+    {
+      "title": "Affirmative Statements",
+      "description": "Basic positive sentences using the base form of the verb (add –s/–es for he, she, it).",
+      "examples": [
+        {
+          "marker": "Subject + base verb",
+          "explanation": "Used with I, you, we, they.",
+          "sample": "They play soccer on weekends."
+        },
+        {
+          "marker": "Subject (he/she/it) + base verb + –s/–es",
+          "explanation": "Third-person singular form.",
+          "sample": "She studies every evening."
+        },
+        {
+          "marker": "Routine statements",
+          "explanation": "Used for regular activities.",
+          "sample": "We start work at 9 a.m."
+        }
+      ]
+    },
+    {
+      "title": "Negative Statements",
+      "description": "Express that something does not happen or is not true.",
+      "examples": [
+        {
+          "marker": "do not (don’t) + base verb",
+          "explanation": "Negative form for I, you, we, they.",
+          "sample": "I don’t like coffee."
+        },
+        {
+          "marker": "does not (doesn’t) + base verb",
+          "explanation": "Negative form for he, she, it.",
+          "sample": "He doesn’t drive to work."
+        },
+        {
+          "marker": "Frequency with negatives",
+          "explanation": "Combining adverbs and negatives.",
+          "sample": "They don’t usually watch TV."
+        }
+      ]
+    },
+    {
+      "title": "Yes/No Questions",
+      "description": "Questions that can be answered with yes or no.",
+      "examples": [
+        {
+          "marker": "Do + subject + base verb?",
+          "explanation": "Question form for I, you, we, they.",
+          "sample": "Do you play guitar?"
+        },
+        {
+          "marker": "Does + subject + base verb?",
+          "explanation": "Question form for he, she, it.",
+          "sample": "Does she work here?"
+        },
+        {
+          "marker": "Short answers",
+          "explanation": "Responding briefly to yes/no questions.",
+          "sample": "Yes, I do. / No, he doesn’t."
+        }
+      ]
+    },
+    {
+      "title": "WH- Questions",
+      "description": "Information questions starting with what, where, when, who, etc.",
+      "examples": [
+        {
+          "marker": "WH + do + subject + base verb?",
+          "explanation": "Question form for I, you, we, they.",
+          "sample": "Where do they live?"
+        },
+        {
+          "marker": "WH + does + subject + base verb?",
+          "explanation": "Question form for he, she, it.",
+          "sample": "When does the train leave?"
+        },
+        {
+          "marker": "Who + verb (+ object)",
+          "explanation": "When ‘who’ is the subject, use the base verb plus –s if needed.",
+          "sample": "Who teaches this class?"
+        }
+      ]
+    },
+    {
+      "title": "Third-Person Singular –s",
+      "description": "Special spelling rules for he, she, it forms.",
+      "examples": [
+        {
+          "marker": "Add –es after –ss, –sh, –ch, –x, –o",
+          "explanation": "Extra syllable needed for pronunciation.",
+          "sample": "He watches TV every night."
+        },
+        {
+          "marker": "Consonant + y → –ies",
+          "explanation": "Change y to i and add –es.",
+          "sample": "She studies French."
+        },
+        {
+          "marker": "Regular verbs + –s",
+          "explanation": "Most verbs just add –s.",
+          "sample": "He works hard."
+        }
+      ]
+    },
+    {
+      "title": "Frequency Adverbs",
+      "description": "Adverbs showing how often an action happens, usually placed before the main verb.",
+      "examples": [
+        {
+          "marker": "always",
+          "explanation": "100% frequency.",
+          "sample": "She always eats breakfast."
+        },
+        {
+          "marker": "usually",
+          "explanation": "High but not absolute frequency.",
+          "sample": "I usually go to bed at 11."
+        },
+        {
+          "marker": "never",
+          "explanation": "0% frequency.",
+          "sample": "They never smoke."
+        }
+      ]
+    },
+    {
+      "title": "Habits and Routines",
+      "description": "Using the Present Simple to describe repeated actions or schedules.",
+      "examples": [
+        {
+          "marker": "Daily routines",
+          "explanation": "Actions done every day.",
+          "sample": "He walks to work every day."
+        },
+        {
+          "marker": "Weekly activities",
+          "explanation": "Actions on specific days.",
+          "sample": "We visit our grandparents on Sundays."
+        },
+        {
+          "marker": "Scheduled events",
+          "explanation": "Timetabled future events.",
+          "sample": "The bus leaves at 6 p.m."
+        }
+      ]
+    },
+    {
+      "title": "Facts and General Truths",
+      "description": "Statements that are always true or scientifically factual.",
+      "examples": [
+        {
+          "marker": "Scientific facts",
+          "explanation": "Universal truths in science.",
+          "sample": "Water boils at 100 °C."
+        },
+        {
+          "marker": "Permanent states",
+          "explanation": "Situations unlikely to change soon.",
+          "sample": "She lives in Bogotá."
+        },
+        {
+          "marker": "Universal truths",
+          "explanation": "Facts accepted as always true.",
+          "sample": "The Earth orbits the sun."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose-verb",
+      "question": "___ you play soccer on weekends?",
+      "options": ["Do", "Does", "Did"],
+      "correct": "Do"
+    },
+    {
+      "type": "rewrite",
+      "instruction": "Rewrite in the negative form of the Present Simple.",
+      "sentence": "She likes chocolate.",
+      "expected": "She doesn’t like chocolate."
+    }
+  ]
+}

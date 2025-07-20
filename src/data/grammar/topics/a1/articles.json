@@ -1,0 +1,216 @@
+{
+  "slug": "articles",
+  "title": "Articles: a / an",
+  "description": "Use *a* and *an* before singular, countable nouns when the listener/reader does not already know which specific thing you mean. Choose *a* before a consonant sound and *an* before a vowel sound. Because English spelling and pronunciation do not always match, focus on the sound that begins the next word—not the first letter.",
+  "subtopics": [
+    {
+      "title": "Singular Countable Nouns Require an Article",
+      "description": "When introducing a singular, countable noun for the first time, use *a* or *an* (or another determiner). You cannot leave the noun bare.",
+      "examples": [
+        {
+          "marker": "a / an + singular countable noun",
+          "explanation": "Needed when the noun is new to the listener.",
+          "sample": "I saw a dog in the park."
+        },
+        {
+          "marker": "not used with plurals the same way",
+          "explanation": "Plural countable nouns can appear with no article when speaking generally.",
+          "sample": "Dogs are friendly. (Not: ~A dogs~)"
+        },
+        {
+          "marker": "not used with uncountables the same way",
+          "explanation": "Uncountable nouns don’t take *a/an*; use *some* if needed.",
+          "sample": "I drank some water. (Not: ~an water~)"
+        }
+      ]
+    },
+    {
+      "title": "Use *a* Before a Consonant Sound",
+      "description": "*A* comes before words that begin with a consonant sound, regardless of spelling.",
+      "examples": [
+        {
+          "marker": "a + consonant sound",
+          "explanation": "Most words starting with consonant letters.",
+          "sample": "She bought a car."
+        },
+        {
+          "marker": "a + word starting with ‘yoo’ sound",
+          "explanation": "Words like *university* start with /juː/, a consonant sound.",
+          "sample": "He studies at a university in Canada."
+        },
+        {
+          "marker": "a + pronounced ‘h’",
+          "explanation": "When the /h/ is pronounced, use *a*.",
+          "sample": "It’s a historic building. (if you pronounce the h)"
+        }
+      ]
+    },
+    {
+      "title": "Use *an* Before a Vowel Sound",
+      "description": "*An* comes before words that begin with a vowel sound (a, e, i, o, u sounds or silent consonants).",
+      "examples": [
+        {
+          "marker": "an + vowel sound",
+          "explanation": "Common before a, e, i, o, u when pronounced as vowels.",
+          "sample": "She ate an apple."
+        },
+        {
+          "marker": "an + silent ‘h’",
+          "explanation": "Use *an* if the word starts with a silent h (so it begins with a vowel sound).",
+          "sample": "We waited for an hour."
+        },
+        {
+          "marker": "an + acronym starting with vowel sound",
+          "explanation": "Base decision on how the letter is pronounced.",
+          "sample": "She works for an NGO. (pronounced ‘en-gee-oh’)"
+        }
+      ]
+    },
+    {
+      "title": "Sound vs Spelling Exceptions",
+      "description": "Decide based on pronunciation, not letters. Some words that start with vowel letters take *a*; some with consonant letters take *an*.",
+      "examples": [
+        {
+          "marker": "a university",
+          "explanation": "Starts with /juː/ (consonant sound).",
+          "sample": "He attends a university in Bogotá."
+        },
+        {
+          "marker": "a European country",
+          "explanation": "European = /juːr-/, so use *a*.",
+          "sample": "Spain is a European country."
+        },
+        {
+          "marker": "an MRI scan",
+          "explanation": "Letter M = /ɛm/, a vowel sound.",
+          "sample": "The doctor ordered an MRI scan."
+        }
+      ]
+    },
+    {
+      "title": "First Mention (New Information)",
+      "description": "Use *a/an* to introduce something new; later you can use *the* to refer to that same known thing.",
+      "examples": [
+        {
+          "marker": "Introduce with a/an",
+          "explanation": "First time the listener hears about it.",
+          "sample": "I bought a book yesterday."
+        },
+        {
+          "marker": "Refer back with the",
+          "explanation": "Now the listener knows which book.",
+          "sample": "The book is about machine learning."
+        },
+        {
+          "marker": "Storytelling flow",
+          "explanation": "A/an sets up; the continues the reference.",
+          "sample": "We saw a movie. The movie was hilarious."
+        }
+      ]
+    },
+    {
+      "title": "Jobs, Roles & Classifications",
+      "description": "Use *a/an* before a singular countable noun that names someone’s job, role, or category.",
+      "examples": [
+        {
+          "marker": "a/an + job",
+          "explanation": "When saying what someone does for work.",
+          "sample": "She is an engineer."
+        },
+        {
+          "marker": "a/an + type of person",
+          "explanation": "Used with descriptive categories.",
+          "sample": "He’s a patient teacher."
+        },
+        {
+          "marker": "a/an + nationality (as a countable identity)",
+          "explanation": "When referring to one person of that nationality.",
+          "sample": "Maria is a Colombian."
+        }
+      ]
+    },
+    {
+      "title": "Fixed Expressions with Quantities",
+      "description": "Some quantity phrases require *a* even though the next word may be plural or uncountable.",
+      "examples": [
+        {
+          "marker": "a lot of",
+          "explanation": "Large amount or number.",
+          "sample": "We have a lot of homework."
+        },
+        {
+          "marker": "a couple of",
+          "explanation": "Two; a small number.",
+          "sample": "I’ll call you in a couple of minutes."
+        },
+        {
+          "marker": "a piece of",
+          "explanation": "Unit for uncountable nouns.",
+          "sample": "Could I have a piece of advice?"
+        }
+      ]
+    },
+    {
+      "title": "Rates, Frequency & Time Expressions",
+      "description": "Use *a* in many expressions meaning ‘per’ or ‘each.’",
+      "examples": [
+        {
+          "marker": "once / twice a + time period",
+          "explanation": "Shows how often something happens.",
+          "sample": "I exercise three times a week."
+        },
+        {
+          "marker": "costs a + unit",
+          "explanation": "Price per unit.",
+          "sample": "Apples cost a dollar each."
+        },
+        {
+          "marker": "miles / liters / kilos a + unit",
+          "explanation": "Rates and ratios.",
+          "sample": "That car gets 40 miles a gallon."
+        }
+      ]
+    },
+    {
+      "title": "When *No Article* Is Correct",
+      "description": "Do not use *a/an* with plural nouns or uncountable nouns when speaking generally.",
+      "examples": [
+        {
+          "marker": "no article + plural noun (general)",
+          "explanation": "Talking about things in general.",
+          "sample": "Books are expensive."
+        },
+        {
+          "marker": "no article + uncountable noun (general)",
+          "explanation": "General statements about substances/ideas.",
+          "sample": "Information is valuable."
+        },
+        {
+          "marker": "use some/any instead when needed",
+          "explanation": "To express an indefinite quantity.",
+          "sample": "Do you have any sugar?"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose-article",
+      "question": "He studies at ___ university in London.",
+      "options": ["a", "an", "no article"],
+      "correct": "a"
+    },
+    {
+      "type": "choose-article",
+      "question": "We waited for ___ hour before boarding.",
+      "options": ["a", "an", "no article"],
+      "correct": "an"
+    },
+    {
+      "type": "rewrite",
+      "instruction": "Add the correct article (a / an / no article).",
+      "sentence": "She is engineer and he is artist.",
+      "expected": "She is an engineer and he is an artist."
+    }
+  ]
+}

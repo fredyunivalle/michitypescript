@@ -1,0 +1,53 @@
+{
+  "slug": "there-is-there-are",
+  "title": "There is / There are",
+  "description": "Describe existence or presence of things using singular and plural.",
+  "subtopics": [
+    {
+      "title": "Affirmative Uses",
+      "description": "State that something exists in a place.",
+      "examples": [
+        {
+          "marker": "There is + singular",
+          "explanation": "Use with one item.",
+          "sample": "There is a cat on the roof."
+        },
+        {
+          "marker": "There are + plural",
+          "explanation": "Use with more than one item.",
+          "sample": "There are three chairs in the room."
+        }
+      ]
+    },
+    {
+      "title": "Questions and Negatives",
+      "description": "Ask or say that something does not exist.",
+      "examples": [
+        {
+          "marker": "Is there...?",
+          "explanation": "Question form for singular.",
+          "sample": "Is there a bank near here?"
+        },
+        {
+          "marker": "There isn't / There aren't",
+          "explanation": "Negative forms for singular and plural.",
+          "sample": "There aren't any cookies left."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose-form",
+      "question": "___ any milk in the fridge?",
+      "options": ["Is there", "Are there", "There is"],
+      "correct": "Is there"
+    },
+    {
+      "type": "rewrite",
+      "instruction": "Rewrite in the plural form using 'there are'.",
+      "sentence": "There is a book on the table.",
+      "expected": "There are books on the table."
+    }
+  ]
+}

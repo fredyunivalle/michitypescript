@@ -1,0 +1,53 @@
+{
+  "slug": "subject-pronouns",
+  "title": "Subject Pronouns",
+  "description": "I, you, he, she, it, we, they – use them correctly in context.",
+  "subtopics": [
+    {
+      "title": "Pronouns and Verb Agreement",
+      "description": "Match each pronoun with the correct verb form.",
+      "examples": [
+        {
+          "marker": "I / you / we / they + base verb",
+          "explanation": "No -s ending in the present simple.",
+          "sample": "They play tennis."
+        },
+        {
+          "marker": "he / she / it + verb-s",
+          "explanation": "Third person singular ends in -s.",
+          "sample": "He works hard."
+        }
+      ]
+    },
+    {
+      "title": "Replacing Nouns",
+      "description": "Use pronouns to avoid repeating nouns.",
+      "examples": [
+        {
+          "marker": "Maria → she",
+          "explanation": "Substitute a person's name with a pronoun.",
+          "sample": "Maria is my friend. She lives nearby."
+        },
+        {
+          "marker": "The books → they",
+          "explanation": "Use 'they' for plural nouns.",
+          "sample": "The books are new. They are on the table."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill-blank",
+      "question": "___ am tired today.",
+      "options": ["I", "He", "They"],
+      "correct": "I"
+    },
+    {
+      "type": "rewrite",
+      "instruction": "Replace the noun with a pronoun.",
+      "sentence": "John is a doctor.",
+      "expected": "He is a doctor."
+    }
+  ]
+}

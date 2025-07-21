@@ -1,54 +1,43 @@
-# React + TypeScript + Vite
+# MichiEnglish App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MichiEnglish App is a React and TypeScript project built with Vite. It uses the Vite PWA plugin so the application can work offline and update automatically.
 
-Currently, two official plugins are available:
+## Requirements
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Node.js](https://nodejs.org/) 20
+- npm (comes bundled with Node.js)
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+Install the dependencies and start the development server:
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
+```bash
+npm install
+npm run dev
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## Available Commands
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+- `npm run build` – create a production build in the `dist` directory.
+- `npm run preview` – preview the production build locally.
+- `npm run lint` – run ESLint to check the codebase.
+- `npm run test` – execute unit tests with Vitest.
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
+## PWA Support
+
+See `vite.config.ts` for how **vite-plugin-pwa** is configured. The service worker caches assets and data files so the app can be installed and used offline.
+
+## Deployment
+
+The GitHub Actions workflow at `.github/workflows/deploy.yaml` builds the project and deploys the contents of `dist` to GitHub Pages whenever changes are pushed to the `main` branch.
+
+## Docker Usage (optional)
+
+A simple `Dockerfile` is included. You can build and run it with:
+
+```bash
+docker build -t michienglish .
+docker run -it michienglish
 ```
+
+This image currently installs Node.js 20 and sets up a shell environment.

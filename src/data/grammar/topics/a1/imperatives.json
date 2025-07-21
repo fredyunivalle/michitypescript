@@ -1,0 +1,53 @@
+{
+  "slug": "imperatives",
+  "title": "Imperatives",
+  "description": "Give basic instructions and commands: 'Sit down!', 'Be quiet.'",
+  "subtopics": [
+    {
+      "title": "Giving Instructions",
+      "description": "Use the base form of the verb to tell someone what to do.",
+      "examples": [
+        {
+          "marker": "Open the window.",
+          "explanation": "Direct command to someone.",
+          "sample": "Open the window, please."
+        },
+        {
+          "marker": "Turn left at the corner.",
+          "explanation": "Instruction for directions.",
+          "sample": "Turn left at the corner and walk two blocks."
+        }
+      ]
+    },
+    {
+      "title": "Negative Imperatives",
+      "description": "Use 'don't' before the verb to tell someone not to do something.",
+      "examples": [
+        {
+          "marker": "Don't run.",
+          "explanation": "Command telling someone to stop running.",
+          "sample": "Don't run in the hallway."
+        },
+        {
+          "marker": "Don't touch that!",
+          "explanation": "Strong warning or instruction.",
+          "sample": "Don't touch that! It's hot."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose-sentence",
+      "question": "Which is an imperative sentence?",
+      "options": ["She is quiet.", "Be quiet.", "The room is quiet."],
+      "correct": "Be quiet."
+    },
+    {
+      "type": "rewrite",
+      "instruction": "Write a negative imperative using 'don't'.",
+      "sentence": "Run on the wet floor.",
+      "expected": "Don't run on the wet floor."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "can-cant",
+  "title": "Can / Can’t",
+  "description": "Talk about abilities and permissions.",
+  "subtopics": [
+    {
+      "title": "Expressing Ability",
+      "description": "Use 'can' to say what someone is able to do.",
+      "examples": [
+        {
+          "marker": "I can swim.",
+          "explanation": "Ability in the present.",
+          "sample": "I can swim very fast."
+        },
+        {
+          "marker": "She can't drive.",
+          "explanation": "Lack of ability.",
+          "sample": "She can't drive a car yet."
+        }
+      ]
+    },
+    {
+      "title": "Asking for Permission",
+      "description": "Use 'can' in questions to request permission.",
+      "examples": [
+        {
+          "marker": "Can I...?",
+          "explanation": "Polite request for permission.",
+          "sample": "Can I borrow your pen?"
+        },
+        {
+          "marker": "You can't...",
+          "explanation": "Deny permission.",
+          "sample": "You can't park here."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose-word",
+      "question": "___ you help me with this exercise?",
+      "options": ["Can", "Do", "Will"],
+      "correct": "Can"
+    },
+    {
+      "type": "rewrite",
+      "instruction": "Respond with lack of ability using 'can't'.",
+      "sentence": "I play the piano. (but I'm not able)",
+      "expected": "I can't play the piano."
+    }
+  ]
+}

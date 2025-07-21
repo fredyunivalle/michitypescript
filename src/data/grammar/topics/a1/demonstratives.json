@@ -1,0 +1,53 @@
+{
+  "slug": "demonstratives",
+  "title": "This / That / These / Those",
+  "description": "Point to things near or far in space and number.",
+  "subtopics": [
+    {
+      "title": "Singular Demonstratives",
+      "description": "Use 'this' for something near and 'that' for something far.",
+      "examples": [
+        {
+          "marker": "this",
+          "explanation": "Near the speaker; singular.",
+          "sample": "This book is interesting."
+        },
+        {
+          "marker": "that",
+          "explanation": "Far from the speaker; singular.",
+          "sample": "That car is fast."
+        }
+      ]
+    },
+    {
+      "title": "Plural Demonstratives",
+      "description": "Use 'these' for things near and 'those' for things far away.",
+      "examples": [
+        {
+          "marker": "these",
+          "explanation": "Near the speaker; plural.",
+          "sample": "These apples are fresh."
+        },
+        {
+          "marker": "those",
+          "explanation": "Far from the speaker; plural.",
+          "sample": "Those houses are new."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose-word",
+      "question": "___ shoes over there are mine.",
+      "options": ["Those", "These", "This"],
+      "correct": "Those"
+    },
+    {
+      "type": "rewrite",
+      "instruction": "Use a demonstrative in the sentence.",
+      "sentence": "Look at car over there.",
+      "expected": "Look at that car over there."
+    }
+  ]
+}

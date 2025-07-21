@@ -1,0 +1,58 @@
+{
+  "slug": "to-be",
+  "title": "Verb To Be",
+  "description": "Learn how to use 'am', 'is', and 'are' in sentences and questions.",
+  "subtopics": [
+    {
+      "title": "Affirmative Forms",
+      "description": "Use the correct form of 'to be' with each subject.",
+      "examples": [
+        {
+          "marker": "I am / You are",
+          "explanation": "First and second person forms.",
+          "sample": "I am a student. You are my teacher."
+        },
+        {
+          "marker": "He/She/It is",
+          "explanation": "Third person singular form.",
+          "sample": "She is happy."
+        },
+        {
+          "marker": "We/They are",
+          "explanation": "Plural subjects use 'are'.",
+          "sample": "They are friends."
+        }
+      ]
+    },
+    {
+      "title": "Negatives and Questions",
+      "description": "Form the negative and create simple questions using 'to be'.",
+      "examples": [
+        {
+          "marker": "am not / isn't / aren't",
+          "explanation": "Add 'not' for negatives.",
+          "sample": "He isn't at home."
+        },
+        {
+          "marker": "Are you...?",
+          "explanation": "Invert verb and subject for questions.",
+          "sample": "Are you ready?"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose-form",
+      "question": "___ she your sister?",
+      "options": ["Is", "Are", "Am"],
+      "correct": "Is"
+    },
+    {
+      "type": "rewrite",
+      "instruction": "Rewrite in the negative form of 'to be'.",
+      "sentence": "They are at school.",
+      "expected": "They aren't at school."
+    }
+  ]
+}

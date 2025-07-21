@@ -1,0 +1,58 @@
+{
+  "slug": "possessive-adjectives",
+  "title": "Possessive Adjectives",
+  "description": "my, your, his, her, its, our, their – show ownership.",
+  "subtopics": [
+    {
+      "title": "Basic Forms",
+      "description": "Use the correct adjective before a noun to show who it belongs to.",
+      "examples": [
+        {
+          "marker": "my / your",
+          "explanation": "Used with I and you.",
+          "sample": "This is my car. Is that your bag?"
+        },
+        {
+          "marker": "his / her / its",
+          "explanation": "Third person singular forms.",
+          "sample": "Her house is big. The dog wagged its tail."
+        },
+        {
+          "marker": "our / their",
+          "explanation": "Plural possessive adjectives.",
+          "sample": "Our team won their game."
+        }
+      ]
+    },
+    {
+      "title": "Common Mistakes",
+      "description": "Avoid confusing possessive adjectives with contractions or pronouns.",
+      "examples": [
+        {
+          "marker": "its vs it's",
+          "explanation": "'its' shows possession; 'it's' means 'it is'.",
+          "sample": "The company changed its logo. It's more modern now."
+        },
+        {
+          "marker": "their vs they're",
+          "explanation": "'their' shows possession; 'they're' is 'they are'.",
+          "sample": "Their car is new because they're rich."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose-word",
+      "question": "Is this ___ book or mine?",
+      "options": ["your", "you're", "yours"],
+      "correct": "your"
+    },
+    {
+      "type": "rewrite",
+      "instruction": "Replace the noun with the correct possessive adjective.",
+      "sentence": "The car of my parents is old.",
+      "expected": "Their car is old."
+    }
+  ]
+}

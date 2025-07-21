@@ -1,0 +1,58 @@
+{
+  "slug": "prepositions-of-place",
+  "title": "Prepositions of Place",
+  "description": "Learn how to describe position: on, in, under, next to, behind.",
+  "subtopics": [
+    {
+      "title": "Common Prepositions",
+      "description": "Use basic words to talk about where things are.",
+      "examples": [
+        {
+          "marker": "on",
+          "explanation": "Something is touching a surface.",
+          "sample": "The keys are on the table."
+        },
+        {
+          "marker": "in",
+          "explanation": "Inside something else.",
+          "sample": "She is in the kitchen."
+        },
+        {
+          "marker": "under",
+          "explanation": "Lower than something, covered by it.",
+          "sample": "The cat is under the chair."
+        }
+      ]
+    },
+    {
+      "title": "More Locations",
+      "description": "Describe positions relative to other objects.",
+      "examples": [
+        {
+          "marker": "next to",
+          "explanation": "Very close beside something.",
+          "sample": "The bank is next to the post office."
+        },
+        {
+          "marker": "behind",
+          "explanation": "At the back of something.",
+          "sample": "He hid behind the door."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose-word",
+      "question": "The dog is ___ the table.",
+      "options": ["under", "in", "behind"],
+      "correct": "under"
+    },
+    {
+      "type": "rewrite",
+      "instruction": "Describe the position using a preposition of place.",
+      "sentence": "The school is the post office. (very close)",
+      "expected": "The school is next to the post office."
+    }
+  ]
+}

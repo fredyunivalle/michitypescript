@@ -1,0 +1,50 @@
+{
+  "slug": "past-simple",
+  "title": "Past Simple",
+  "description": "The past simple is used to talk about actions that happened and finished in the past. It is often used with time expressions like yesterday, last week, or ago.",
+  "subtopics": [
+    {
+      "title": "Regular Verbs",
+      "description": "Regular verbs in the past simple end with -ed. Use the same form for all subjects.",
+      "examples": [
+        { "marker": "worked", "explanation": "Use for regular verbs", "sample": "I worked yesterday." },
+        { "marker": "played", "explanation": "Add -ed to the base verb", "sample": "She played football last week." },
+        { "marker": "watched", "explanation": "Use for all subjects", "sample": "They watched a movie." }
+      ]
+    },
+    {
+      "title": "Irregular Verbs",
+      "description": "Irregular verbs have special past forms. You need to memorize them.",
+      "examples": [
+        { "marker": "went", "explanation": "Past of 'go'", "sample": "He went to school." },
+        { "marker": "had", "explanation": "Past of 'have'", "sample": "We had lunch at noon." },
+        { "marker": "saw", "explanation": "Past of 'see'", "sample": "I saw a cat." }
+      ]
+    },
+    {
+      "title": "Negative Sentences",
+      "description": "Use 'did not' (didn't) + base verb to make negatives in the past simple.",
+      "examples": [
+        { "marker": "did not play", "explanation": "Use 'did not' + base verb", "sample": "She did not play tennis." },
+        { "marker": "didn't eat", "explanation": "Short form of 'did not'", "sample": "I didn't eat breakfast." },
+        { "marker": "did not go", "explanation": "No -ed or irregular form after 'did not'", "sample": "They did not go home." }
+      ]
+    },
+    {
+      "title": "Questions",
+      "description": "Use 'Did' + subject + base verb to ask questions in the past simple.",
+      "examples": [
+        { "marker": "Did you see", "explanation": "Start with 'Did'", "sample": "Did you see the film?" },
+        { "marker": "Did she work", "explanation": "Use base verb after 'Did'", "sample": "Did she work yesterday?" },
+        { "marker": "Did they go", "explanation": "No -ed or irregular form after 'Did'", "sample": "Did they go to the park?" }
+      ]
+    }
+  ],
+  "exercises": [
+    { "type": "choose-one", "question": "What is the past simple of 'go'?", "options": ["goed", "went", "goes"], "correct": "went" },
+    { "type": "fill-in", "instruction": "Complete the sentence with the correct past simple form: 'She ___ (visit) her friend.'", "sentence": "She ___ her friend.", "correct": "visited" },
+    { "type": "choose-one", "question": "Which sentence is correct?", "options": ["He didn't went home.", "He didn't go home.", "He don't go home."], "correct": "He didn't go home." },
+    { "type": "rewrite", "instruction": "Rewrite as a question: 'You saw the dog.'", "sentence": "You saw the dog.", "expected": "Did you see the dog?" },
+    { "type": "fill-in", "instruction": "Write the negative: 'They played football.'", "sentence": "They ___ football.", "correct": "did not play" }
+  ]
+}

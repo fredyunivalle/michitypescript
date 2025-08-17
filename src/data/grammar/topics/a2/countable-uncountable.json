@@ -1,0 +1,50 @@
+{
+  "slug": "countable-uncountable",
+  "title": "Countable and Uncountable Nouns",
+  "description": "Countable nouns can be counted (one apple, two apples). Uncountable nouns cannot be counted (water, rice). This helps us use the right words with nouns.",
+  "subtopics": [
+    {
+      "title": "Countable Nouns",
+      "description": "Countable nouns have singular and plural forms. You can use numbers with them.",
+      "examples": [
+        { "marker": "an apple", "explanation": "Singular form", "sample": "I have an apple." },
+        { "marker": "two books", "explanation": "Plural form", "sample": "She has two books." },
+        { "marker": "many", "explanation": "Use with countable nouns", "sample": "There are many chairs." }
+      ]
+    },
+    {
+      "title": "Uncountable Nouns",
+      "description": "Uncountable nouns do not have a plural form. You cannot use numbers directly with them.",
+      "examples": [
+        { "marker": "water", "explanation": "No plural form", "sample": "I drink water every day." },
+        { "marker": "rice", "explanation": "No 'rices'", "sample": "She eats rice for lunch." },
+        { "marker": "much", "explanation": "Use with uncountable nouns", "sample": "How much milk do you want?" }
+      ]
+    },
+    {
+      "title": "Some and Any",
+      "description": "Use 'some' in positive sentences and 'any' in negatives and questions.",
+      "examples": [
+        { "marker": "some", "explanation": "Use in positive sentences", "sample": "I have some friends." },
+        { "marker": "any", "explanation": "Use in negatives", "sample": "I don't have any money." },
+        { "marker": "any", "explanation": "Use in questions", "sample": "Do you have any apples?" }
+      ]
+    },
+    {
+      "title": "A Few and A Little",
+      "description": "Use 'a few' with countable nouns and 'a little' with uncountable nouns.",
+      "examples": [
+        { "marker": "a few", "explanation": "Use with countable nouns", "sample": "I have a few pencils." },
+        { "marker": "a little", "explanation": "Use with uncountable nouns", "sample": "There is a little juice left." },
+        { "marker": "a few", "explanation": "Means 'some', but not many", "sample": "She has a few questions." }
+      ]
+    }
+  ],
+  "exercises": [
+    { "type": "choose-one", "question": "Which is countable?", "options": ["milk", "apple", "rice"], "correct": "apple" },
+    { "type": "fill-in", "instruction": "Complete: 'I don't have ___ (any/some) money.'", "sentence": "I don't have ___ money.", "correct": "any" },
+    { "type": "choose-one", "question": "Which is correct?", "options": ["a few water", "a little water", "a little apples"], "correct": "a little water" },
+    { "type": "rewrite", "instruction": "Rewrite with 'some': 'I have friends.'", "sentence": "I have friends.", "expected": "I have some friends." },
+    { "type": "fill-in", "instruction": "Write the plural: 'book'", "sentence": "I have two ___.", "correct": "books" }
+  ]
+}

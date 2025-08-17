@@ -1,0 +1,50 @@
+{
+  "slug": "superlatives",
+  "title": "Superlatives",
+  "description": "Superlatives are used to show the highest or lowest degree of a quality in a group. They help us say which thing or person is the most or least.",
+  "subtopics": [
+    {
+      "title": "Short Adjectives",
+      "description": "Add -est to short adjectives to make the superlative form.",
+      "examples": [
+        { "marker": "tallest", "explanation": "Add -est to adjectives with one syllable", "sample": "He is the tallest in the class." },
+        { "marker": "smallest", "explanation": "Use for size", "sample": "This is the smallest bag." },
+        { "marker": "oldest", "explanation": "Use for age", "sample": "She is the oldest student." }
+      ]
+    },
+    {
+      "title": "Adjectives Ending in -y",
+      "description": "Change -y to -i and add -est for adjectives ending in -y.",
+      "examples": [
+        { "marker": "happiest", "explanation": "Change -y to -i", "sample": "He is the happiest boy here." },
+        { "marker": "easiest", "explanation": "Use for 'easy'", "sample": "This is the easiest question." },
+        { "marker": "busiest", "explanation": "Use for 'busy'", "sample": "She is the busiest person I know." }
+      ]
+    },
+    {
+      "title": "Long Adjectives",
+      "description": "Use 'the most' before adjectives with two or more syllables.",
+      "examples": [
+        { "marker": "the most beautiful", "explanation": "Use 'the most' for long adjectives", "sample": "This is the most beautiful park." },
+        { "marker": "the most expensive", "explanation": "Use for price", "sample": "It is the most expensive phone." },
+        { "marker": "the most interesting", "explanation": "Use for 'interesting'", "sample": "This is the most interesting story." }
+      ]
+    },
+    {
+      "title": "Using 'the' with Superlatives",
+      "description": "Always use 'the' before a superlative adjective.",
+      "examples": [
+        { "marker": "the tallest", "explanation": "Use 'the' before superlatives", "sample": "He is the tallest student." },
+        { "marker": "the best", "explanation": "Use 'the' with irregular superlatives", "sample": "This is the best answer." },
+        { "marker": "the most", "explanation": "Use 'the most' for long adjectives", "sample": "She is the most careful driver." }
+      ]
+    }
+  ],
+  "exercises": [
+    { "type": "choose-one", "question": "What is the superlative of 'big'?", "options": ["biggest", "most big", "biger"], "correct": "biggest" },
+    { "type": "fill-in", "instruction": "Complete: 'He is the ___ (young) in the team.'", "sentence": "He is the ___ in the team.", "correct": "youngest" },
+    { "type": "choose-one", "question": "Which is correct?", "options": ["the most easy", "the easiest", "easiest"], "correct": "the easiest" },
+    { "type": "rewrite", "instruction": "Rewrite using a superlative: 'This car is fast. That car is faster. My car is the fastest.'", "sentence": "This car is fast. That car is faster. My car is the fastest.", "expected": "My car is the fastest." },
+    { "type": "fill-in", "instruction": "Write the superlative: 'busy'", "sentence": "She is the ___ person here.", "correct": "busiest" }
+  ]
+}

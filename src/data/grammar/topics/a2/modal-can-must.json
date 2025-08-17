@@ -1,0 +1,50 @@
+{
+  "slug": "modal-can-must",
+  "title": "Modal Verbs: Can and Must",
+  "description": "'Can' is used to talk about ability or permission. 'Must' is used to talk about rules or things that are necessary.",
+  "subtopics": [
+    {
+      "title": "Can for Ability",
+      "description": "Use 'can' to say what someone is able to do.",
+      "examples": [
+        { "marker": "can swim", "explanation": "Ability", "sample": "I can swim." },
+        { "marker": "can speak", "explanation": "Ability with languages", "sample": "She can speak English." },
+        { "marker": "can run", "explanation": "Physical ability", "sample": "He can run fast." }
+      ]
+    },
+    {
+      "title": "Can for Permission",
+      "description": "Use 'can' to ask for or give permission.",
+      "examples": [
+        { "marker": "Can I", "explanation": "Ask for permission", "sample": "Can I use your phone?" },
+        { "marker": "You can", "explanation": "Give permission", "sample": "You can go now." },
+        { "marker": "Can we", "explanation": "Ask for group permission", "sample": "Can we leave early?" }
+      ]
+    },
+    {
+      "title": "Must for Obligation",
+      "description": "Use 'must' to talk about rules or things that are necessary.",
+      "examples": [
+        { "marker": "must wear", "explanation": "Rule", "sample": "You must wear a uniform." },
+        { "marker": "must finish", "explanation": "Obligation", "sample": "We must finish our homework." },
+        { "marker": "must be", "explanation": "Necessity", "sample": "He must be on time." }
+      ]
+    },
+    {
+      "title": "Negative Forms",
+      "description": "Use 'can't' for negative ability or permission. Use 'mustn't' for things that are not allowed.",
+      "examples": [
+        { "marker": "can't swim", "explanation": "Negative ability", "sample": "I can't swim." },
+        { "marker": "can't go", "explanation": "Negative permission", "sample": "You can't go outside now." },
+        { "marker": "mustn't run", "explanation": "Not allowed", "sample": "You mustn't run in the hall." }
+      ]
+    }
+  ],
+  "exercises": [
+    { "type": "choose-one", "question": "Which shows ability?", "options": ["I must swim.", "I can swim.", "I swim."], "correct": "I can swim." },
+    { "type": "fill-in", "instruction": "Complete: 'You ___ (not/go) outside now.'", "sentence": "You ___ outside now.", "correct": "can't go" },
+    { "type": "choose-one", "question": "Which is a rule?", "options": ["You can eat here.", "You must wear a uniform.", "You can run."], "correct": "You must wear a uniform." },
+    { "type": "rewrite", "instruction": "Rewrite as a question: 'She can speak English.'", "sentence": "She can speak English.", "expected": "Can she speak English?" },
+    { "type": "fill-in", "instruction": "Write the negative: 'You must run.'", "sentence": "You ___ run.", "correct": "mustn't" }
+  ]
+}

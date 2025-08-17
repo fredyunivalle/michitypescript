@@ -1,0 +1,50 @@
+{
+  "slug": "past-continuous",
+  "title": "Past Continuous",
+  "description": "The past continuous is used to talk about actions that were happening at a specific time in the past. It often describes background actions.",
+  "subtopics": [
+    {
+      "title": "Affirmative Sentences",
+      "description": "Use 'was/were' + verb-ing to say what was happening in the past.",
+      "examples": [
+        { "marker": "was playing", "explanation": "Use with I/he/she/it", "sample": "I was playing football." },
+        { "marker": "were eating", "explanation": "Use with you/we/they", "sample": "They were eating dinner." },
+        { "marker": "was reading", "explanation": "Use for one person", "sample": "She was reading a book." }
+      ]
+    },
+    {
+      "title": "Negative Sentences",
+      "description": "Use 'was not/weren't' + verb-ing to say something was not happening.",
+      "examples": [
+        { "marker": "was not working", "explanation": "Negative with I/he/she/it", "sample": "He was not working yesterday." },
+        { "marker": "were not watching", "explanation": "Negative with you/we/they", "sample": "We were not watching TV." },
+        { "marker": "wasn't sleeping", "explanation": "Short form of 'was not'", "sample": "I wasn't sleeping." }
+      ]
+    },
+    {
+      "title": "Questions",
+      "description": "Put 'was/were' before the subject to ask about actions in the past.",
+      "examples": [
+        { "marker": "Was she playing", "explanation": "Start with 'Was'", "sample": "Was she playing tennis?" },
+        { "marker": "Were you studying", "explanation": "Start with 'Were'", "sample": "Were you studying last night?" },
+        { "marker": "Was it raining", "explanation": "Ask about the weather", "sample": "Was it raining yesterday?" }
+      ]
+    },
+    {
+      "title": "Past Continuous with Past Simple",
+      "description": "Use the past continuous for a longer action and the past simple for a short action that happened during it.",
+      "examples": [
+        { "marker": "was cooking", "explanation": "Longer action", "sample": "She was cooking when I arrived." },
+        { "marker": "were playing", "explanation": "Background action", "sample": "They were playing football when it started to rain." },
+        { "marker": "was reading", "explanation": "Ongoing action", "sample": "I was reading when the phone rang." }
+      ]
+    }
+  ],
+  "exercises": [
+    { "type": "choose-one", "question": "Which is past continuous?", "options": ["She was reading.", "She reads.", "She is reading."], "correct": "She was reading." },
+    { "type": "fill-in", "instruction": "Complete: 'They ___ (not/watch) TV.'", "sentence": "They ___ TV.", "correct": "were not watching" },
+    { "type": "choose-one", "question": "How do you ask about an action in the past?", "options": ["Were you studying?", "Do you study?", "Are you studying?"], "correct": "Were you studying?" },
+    { "type": "rewrite", "instruction": "Rewrite as a question: 'He was playing football.'", "sentence": "He was playing football.", "expected": "Was he playing football?" },
+    { "type": "fill-in", "instruction": "Write the negative: 'I was working.'", "sentence": "I ___ working.", "correct": "was not" }
+  ]
+}

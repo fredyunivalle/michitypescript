@@ -1,0 +1,50 @@
+{
+  "slug": "future-going-to",
+  "title": "Future with 'Going to'",
+  "description": "We use 'going to' to talk about plans or things we have already decided to do in the future. It is also used for predictions based on what we see.",
+  "subtopics": [
+    {
+      "title": "Affirmative Sentences",
+      "description": "Use 'am/is/are going to' + base verb to talk about future plans.",
+      "examples": [
+        { "marker": "am going to", "explanation": "Use with 'I'", "sample": "I am going to visit my friend." },
+        { "marker": "is going to", "explanation": "Use with he/she/it", "sample": "She is going to study tonight." },
+        { "marker": "are going to", "explanation": "Use with you/we/they", "sample": "We are going to play football." }
+      ]
+    },
+    {
+      "title": "Negative Sentences",
+      "description": "Use 'am/is/are not going to' + base verb to say something will not happen.",
+      "examples": [
+        { "marker": "am not going to", "explanation": "Negative with 'I'", "sample": "I am not going to eat pizza." },
+        { "marker": "is not going to", "explanation": "Negative with he/she/it", "sample": "He is not going to come." },
+        { "marker": "are not going to", "explanation": "Negative with you/we/they", "sample": "They are not going to travel." }
+      ]
+    },
+    {
+      "title": "Questions",
+      "description": "Put 'am/is/are' before the subject to ask about future plans.",
+      "examples": [
+        { "marker": "Are you going to", "explanation": "Start with 'Are'", "sample": "Are you going to watch TV?" },
+        { "marker": "Is she going to", "explanation": "Start with 'Is'", "sample": "Is she going to call you?" },
+        { "marker": "Am I going to", "explanation": "Start with 'Am'", "sample": "Am I going to pass the test?" }
+      ]
+    },
+    {
+      "title": "Predictions",
+      "description": "Use 'going to' for predictions when you see something now.",
+      "examples": [
+        { "marker": "going to rain", "explanation": "Prediction based on evidence", "sample": "Look at the clouds. It is going to rain." },
+        { "marker": "going to fall", "explanation": "Prediction from what you see", "sample": "Be careful! You are going to fall." },
+        { "marker": "going to win", "explanation": "Prediction about the future", "sample": "Our team is going to win." }
+      ]
+    }
+  ],
+  "exercises": [
+    { "type": "choose-one", "question": "Which is correct for a plan?", "options": ["I will visit my friend.", "I am going to visit my friend.", "I visit my friend."], "correct": "I am going to visit my friend." },
+    { "type": "fill-in", "instruction": "Complete: 'She ___ (not/go) to the party.'", "sentence": "She ___ to the party.", "correct": "is not going to go" },
+    { "type": "choose-one", "question": "How do you ask about a future plan?", "options": ["Are you going to study?", "You are going to study?", "Do you going to study?"], "correct": "Are you going to study?" },
+    { "type": "rewrite", "instruction": "Rewrite as a question: 'They are going to travel.'", "sentence": "They are going to travel.", "expected": "Are they going to travel?" },
+    { "type": "fill-in", "instruction": "Write a prediction: 'Look at the sky. It ___ (rain).'", "sentence": "Look at the sky. It ___ .", "correct": "is going to rain" }
+  ]
+}

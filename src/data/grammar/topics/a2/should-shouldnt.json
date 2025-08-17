@@ -1,0 +1,50 @@
+{
+  "slug": "should-shouldnt",
+  "title": "Should / Shouldn't",
+  "description": "We use 'should' to give advice or say what is a good idea. 'Shouldn't' is used to say something is not a good idea.",
+  "subtopics": [
+    {
+      "title": "Giving Advice",
+      "description": "Use 'should' to tell someone what is a good idea.",
+      "examples": [
+        { "marker": "should study", "explanation": "Advice for learning", "sample": "You should study for the test." },
+        { "marker": "should eat", "explanation": "Advice about food", "sample": "He should eat more vegetables." },
+        { "marker": "should go", "explanation": "Advice about places", "sample": "We should go home now." }
+      ]
+    },
+    {
+      "title": "Negative Advice",
+      "description": "Use 'shouldn't' to say something is not a good idea.",
+      "examples": [
+        { "marker": "shouldn't smoke", "explanation": "Advice about health", "sample": "You shouldn't smoke." },
+        { "marker": "shouldn't be late", "explanation": "Advice about time", "sample": "She shouldn't be late for class." },
+        { "marker": "shouldn't eat", "explanation": "Advice about food", "sample": "They shouldn't eat too much sugar." }
+      ]
+    },
+    {
+      "title": "Forming Questions",
+      "description": "Use 'should' at the beginning to ask for advice.",
+      "examples": [
+        { "marker": "Should I", "explanation": "Start with 'Should'", "sample": "Should I call him?" },
+        { "marker": "Should we", "explanation": "Ask for group advice", "sample": "Should we leave now?" },
+        { "marker": "Should she", "explanation": "Ask about another person", "sample": "Should she take the bus?" }
+      ]
+    },
+    {
+      "title": "Short Answers",
+      "description": "Use 'Yes, you should.' or 'No, you shouldn't.' for short answers.",
+      "examples": [
+        { "marker": "Yes, you should.", "explanation": "Positive short answer", "sample": "Should I study? Yes, you should." },
+        { "marker": "No, you shouldn't.", "explanation": "Negative short answer", "sample": "Should I go? No, you shouldn't." },
+        { "marker": "Yes, he should.", "explanation": "Short answer for another person", "sample": "Should he help? Yes, he should." }
+      ]
+    }
+  ],
+  "exercises": [
+    { "type": "choose-one", "question": "Which is advice?", "options": ["You should sleep early.", "You sleep early.", "You will sleep early."], "correct": "You should sleep early." },
+    { "type": "fill-in", "instruction": "Complete: 'You ___ (not/eat) so much candy.'", "sentence": "You ___ so much candy.", "correct": "shouldn't eat" },
+    { "type": "choose-one", "question": "How do you ask for advice?", "options": ["Should I call her?", "I should call her?", "Do I should call her?"], "correct": "Should I call her?" },
+    { "type": "rewrite", "instruction": "Rewrite as advice: 'It is cold. Wear a coat.'", "sentence": "It is cold. Wear a coat.", "expected": "You should wear a coat." },
+    { "type": "fill-in", "instruction": "Write the negative: 'He should go.'", "sentence": "He ___ go.", "correct": "shouldn't" }
+  ]
+}

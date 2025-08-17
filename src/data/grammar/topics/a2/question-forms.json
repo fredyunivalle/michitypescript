@@ -1,0 +1,50 @@
+{
+  "slug": "question-forms",
+  "title": "Question Forms",
+  "description": "Question forms help us ask for information. We use different words and word order to make questions in English.",
+  "subtopics": [
+    {
+      "title": "Yes/No Questions",
+      "description": "Start with an auxiliary verb (do/does/is/are/can) for yes/no questions.",
+      "examples": [
+        { "marker": "Do you", "explanation": "Use 'do' for present simple", "sample": "Do you like pizza?" },
+        { "marker": "Is she", "explanation": "Use 'is' for present continuous", "sample": "Is she reading?" },
+        { "marker": "Can he", "explanation": "Use 'can' for ability", "sample": "Can he swim?" }
+      ]
+    },
+    {
+      "title": "Wh- Questions",
+      "description": "Start with a question word (what, where, when, who, why, how).",
+      "examples": [
+        { "marker": "What", "explanation": "Ask about things", "sample": "What is your name?" },
+        { "marker": "Where", "explanation": "Ask about places", "sample": "Where do you live?" },
+        { "marker": "When", "explanation": "Ask about time", "sample": "When is your birthday?" }
+      ]
+    },
+    {
+      "title": "Question Word Order",
+      "description": "Use question word + auxiliary verb + subject + main verb.",
+      "examples": [
+        { "marker": "Where do you live?", "explanation": "Correct word order", "sample": "Where do you live?" },
+        { "marker": "What are you doing?", "explanation": "Present continuous", "sample": "What are you doing?" },
+        { "marker": "Why is he sad?", "explanation": "Use 'is' for present continuous", "sample": "Why is he sad?" }
+      ]
+    },
+    {
+      "title": "Short Answers",
+      "description": "Use short answers to reply to yes/no questions.",
+      "examples": [
+        { "marker": "Yes, I do.", "explanation": "Positive short answer", "sample": "Do you like apples? Yes, I do." },
+        { "marker": "No, she isn't.", "explanation": "Negative short answer", "sample": "Is she at home? No, she isn't." },
+        { "marker": "Yes, he can.", "explanation": "Ability short answer", "sample": "Can he swim? Yes, he can." }
+      ]
+    }
+  ],
+  "exercises": [
+    { "type": "choose-one", "question": "Which is a wh- question?", "options": ["Do you like tea?", "Where do you live?", "Is he happy?"], "correct": "Where do you live?" },
+    { "type": "fill-in", "instruction": "Complete: '___ (What/Where/When) is your birthday?'", "sentence": "___ is your birthday?", "correct": "When" },
+    { "type": "choose-one", "question": "Which is correct word order?", "options": ["Where you live do?", "Where do you live?", "Do where you live?"], "correct": "Where do you live?" },
+    { "type": "rewrite", "instruction": "Rewrite as a yes/no question: 'You like pizza.'", "sentence": "You like pizza.", "expected": "Do you like pizza?" },
+    { "type": "fill-in", "instruction": "Write a short answer: 'Is she at home?'", "sentence": "Is she at home?", "correct": "No, she isn't." }
+  ]
+}

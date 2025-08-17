@@ -1,0 +1,50 @@
+{
+  "slug": "comparatives",
+  "title": "Comparatives",
+  "description": "Comparatives are used to compare two people, animals, or things. They show differences in quality, size, or amount.",
+  "subtopics": [
+    {
+      "title": "Short Adjectives",
+      "description": "Add -er to short adjectives to make the comparative form.",
+      "examples": [
+        { "marker": "taller", "explanation": "Add -er to adjectives with one syllable", "sample": "Tom is taller than Sam." },
+        { "marker": "smaller", "explanation": "Use for adjectives like 'small'", "sample": "This bag is smaller than that one." },
+        { "marker": "older", "explanation": "Use for age", "sample": "My brother is older than me." }
+      ]
+    },
+    {
+      "title": "Adjectives Ending in -y",
+      "description": "Change -y to -i and add -er for adjectives ending in -y.",
+      "examples": [
+        { "marker": "happier", "explanation": "Change -y to -i", "sample": "She is happier today." },
+        { "marker": "easier", "explanation": "Use for 'easy'", "sample": "This test is easier than the last one." },
+        { "marker": "busier", "explanation": "Use for 'busy'", "sample": "He is busier this week." }
+      ]
+    },
+    {
+      "title": "Long Adjectives",
+      "description": "Use 'more' before adjectives with two or more syllables.",
+      "examples": [
+        { "marker": "more beautiful", "explanation": "Use 'more' for long adjectives", "sample": "This garden is more beautiful than that one." },
+        { "marker": "more expensive", "explanation": "Use for price", "sample": "This phone is more expensive." },
+        { "marker": "more interesting", "explanation": "Use for 'interesting'", "sample": "The book is more interesting than the movie." }
+      ]
+    },
+    {
+      "title": "Comparing Two Things",
+      "description": "Use 'than' after the comparative to show the difference.",
+      "examples": [
+        { "marker": "than", "explanation": "Use after the comparative", "sample": "My house is bigger than yours." },
+        { "marker": "than", "explanation": "Shows what you compare", "sample": "This test is easier than the last one." },
+        { "marker": "than", "explanation": "Always use with comparatives", "sample": "She is taller than her sister." }
+      ]
+    }
+  ],
+  "exercises": [
+    { "type": "choose-one", "question": "What is the comparative of 'big'?", "options": ["biger", "bigger", "more big"], "correct": "bigger" },
+    { "type": "fill-in", "instruction": "Complete: 'This car is ___ (fast) than that one.'", "sentence": "This car is ___ than that one.", "correct": "faster" },
+    { "type": "choose-one", "question": "Which is correct?", "options": ["more easy", "easier", "easyer"], "correct": "easier" },
+    { "type": "rewrite", "instruction": "Rewrite using a comparative: 'This book is interesting. That book is boring.'", "sentence": "This book is interesting. That book is boring.", "expected": "This book is more interesting than that book." },
+    { "type": "fill-in", "instruction": "Write the comparative: 'busy'", "sentence": "She is ___ than me.", "correct": "busier" }
+  ]
+}

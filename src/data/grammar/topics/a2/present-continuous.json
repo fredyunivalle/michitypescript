@@ -1,0 +1,50 @@
+{
+  "slug": "present-continuous",
+  "title": "Present Continuous",
+  "description": "The present continuous is used to talk about actions happening now or around now. It is also used for future plans.",
+  "subtopics": [
+    {
+      "title": "Affirmative Sentences",
+      "description": "Use 'am/is/are' + verb-ing to say what is happening now.",
+      "examples": [
+        { "marker": "am playing", "explanation": "Use with 'I'", "sample": "I am playing football." },
+        { "marker": "is eating", "explanation": "Use with he/she/it", "sample": "She is eating lunch." },
+        { "marker": "are studying", "explanation": "Use with you/we/they", "sample": "They are studying English." }
+      ]
+    },
+    {
+      "title": "Negative Sentences",
+      "description": "Use 'am/is/are not' + verb-ing to say something is not happening.",
+      "examples": [
+        { "marker": "am not working", "explanation": "Negative with 'I'", "sample": "I am not working today." },
+        { "marker": "is not sleeping", "explanation": "Negative with he/she/it", "sample": "He is not sleeping." },
+        { "marker": "are not watching", "explanation": "Negative with you/we/they", "sample": "We are not watching TV." }
+      ]
+    },
+    {
+      "title": "Questions",
+      "description": "Put 'am/is/are' before the subject to ask about actions happening now.",
+      "examples": [
+        { "marker": "Are you reading", "explanation": "Start with 'Are'", "sample": "Are you reading a book?" },
+        { "marker": "Is she coming", "explanation": "Start with 'Is'", "sample": "Is she coming to the party?" },
+        { "marker": "Am I talking", "explanation": "Start with 'Am'", "sample": "Am I talking too fast?" }
+      ]
+    },
+    {
+      "title": "Future Arrangements",
+      "description": "Use the present continuous to talk about future plans.",
+      "examples": [
+        { "marker": "am meeting", "explanation": "Use for future plans", "sample": "I am meeting my friend tomorrow." },
+        { "marker": "is flying", "explanation": "Use for future travel", "sample": "She is flying to Paris next week." },
+        { "marker": "are having", "explanation": "Use for group plans", "sample": "We are having a party on Friday." }
+      ]
+    }
+  ],
+  "exercises": [
+    { "type": "choose-one", "question": "Which is present continuous?", "options": ["She eats lunch.", "She is eating lunch.", "She ate lunch."], "correct": "She is eating lunch." },
+    { "type": "fill-in", "instruction": "Complete: 'They ___ (not/watch) TV.'", "sentence": "They ___ TV.", "correct": "are not watching" },
+    { "type": "choose-one", "question": "How do you ask about an action now?", "options": ["Are you reading?", "Do you reading?", "You are reading?"], "correct": "Are you reading?" },
+    { "type": "rewrite", "instruction": "Rewrite as a question: 'He is playing football.'", "sentence": "He is playing football.", "expected": "Is he playing football?" },
+    { "type": "fill-in", "instruction": "Write the negative: 'I am working.'", "sentence": "I ___ working.", "correct": "am not" }
+  ]
+}
